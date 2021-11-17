@@ -1,0 +1,6 @@
+0 Jumping
+1 Kicking
+2 Running
+3 Man with bat
+4 Man with gun 
+5 Man with knife
